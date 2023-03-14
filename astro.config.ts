@@ -10,7 +10,7 @@ import codeTitle from "remark-code-title";
 // https://astro.build/config
 export default defineConfig({
   site: "https://kbdharun.github.io",
-  base: '/blog-astro-1'
+  base: '/blog-astro-1',
   markdown: {
     extendDefaultPlugins: true,
     shikiConfig: {
@@ -27,8 +27,6 @@ export default defineConfig({
       codeTitle,
     ],
   },
-
-  base: "/",
   integrations: [
     compress({
       css: true,
