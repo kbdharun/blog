@@ -10,8 +10,6 @@ tags: internet, archive, archiveorg, internet-archive
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690538728708/d12248f6-74ac-40ba-ae7a-f701a0dd29cd.png align="left")
-
 # The Story of Internet Archive's WayBack Machine
 
 **Internet Archive** is an American Non-Profit Organisation that maintains a digital library of millions of free books, movies, software, music, websites, and more. It was founded in 1996 to give
