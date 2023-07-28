@@ -16,7 +16,7 @@ tags: internet, archive, archiveorg, internet-archive
 
 "Universal Access to all languages and information". They created **Wayback Machine** to maintain the **Digital archive of the  Internet** (**W**orld **W**ide **W**eb)
 
-[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690538730516/7f2b0f32-d3c7-44b9-b50d-1af3e304c25c.png align="left")](https://lh3.googleusercontent.com/-jnNctYHyHsQ/YZeAIv9O9aI/AAAAAAADJxI/56O_Ti6sIoML6md8hXMPvr83KTPEn2S1wCLcBGAsYHQ/image.png)
+[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690538730516/7f2b0f32-d3c7-44b9-b50d-1af3e304c25c.png align="center")](https://lh3.googleusercontent.com/-jnNctYHyHsQ/YZeAIv9O9aI/AAAAAAADJxI/56O_Ti6sIoML6md8hXMPvr83KTPEn2S1wCLcBGAsYHQ/image.png)
 
 Image of the WayBack Machine at [https://web.archive.org](https://web.archive.org)
 
@@ -30,4 +30,4 @@ It is used by Journalists and Scholars all over the world to provide citations a
 
 **WayBack Machine** has been archiving the Internet for the past 25 years. It is currently owned by Amazon. Internet Technologies are constantly changing, this tool helps you to look back on the changes we make today in this digital era. It will also help future generations to experience the Internet we have today.
 
-\*\*\*\*\*All statistics are taken from the time of the Article's Writing
+\*All statistics are taken from the time of the Article's Writing
